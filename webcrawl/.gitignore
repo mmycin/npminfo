@@ -1,0 +1,5 @@
+.venv
+.env
+dist
+webcrawl*
+.python-version

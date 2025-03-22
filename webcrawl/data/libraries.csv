@@ -1,0 +1,62 @@
+Name,Description,Link
+terminaltables,terminal tables,https://github.com/xmonader
+webterminal,Very simple browser Javascript TTY web terminal,https://github.com/JohnAD
+termstyle,Easy to use styles for terminal output,https://github.com/PMunch
+rain,Rain simulation in your terminal,https://github.com/OHermesJunior
+spinny,Spinny is a tiny terminal spinner package for the Nim Programming Language.,https://github.com/nimbackup
+asciitables,terminal ascii tables for nim,https://github.com/xmonader
+pinggraph,Simple terminal ping graph,https://github.com/SolitudeSF
+bearlibterminal,Wrapper for the C[++] library BearLibTerminal,https://github.com/irskep
+illwave,A cross-platform terminal UI library,https://github.com/ansiwave
+conio,.NET-inspired lightweight terminal library,https://github.com/guevara-chan
+shellcmd,Collection of Terminal commands to be used inside nim,https://github.com/Alogani
+qwertycd,Terminal UI based cd command,https://github.com/minefuto
+nimmm,A terminal file manager written in nim,https://github.com/joachimschmidt557
+drawille,Drawing in terminal with Unicode Braille characters.,https://github.com/PMunch
+noxen,highly customizable terminal boxes for nim!,https://github.com/ptVoid
+cap10,A tool to capture and replay command line terminal sessions,https://github.com/crashappsec
+pnimrp,simple terminal radio station player in nim making life easier,https://github.com/bloomingchad
+nimtetris,A simple terminal tetris in Nim,https://github.com/jiro4989
+colors,"A simple, powerful terminal coloring and styling library akin to NPM `colors`",https://github.com/thing-king
+dashing,Terminal dashboards.,https://github.com/FedericoCeratto
+fab,Print fabulously in your terminal,https://github.com/icyphox
+lc,"A post-modern, ""multi-dimensional"" configurable ls/file lister",https://github.com/c-blake
+lscolors,A library for colorizing paths according to LS_COLORS,https://github.com/joachimschmidt557
+nimlist,View nim packages in your browser.,https://github.com/flenniken
+imgcat,See pictures in your console,https://github.com/not-lum
+bestfetch,"a customizable, beautiful, and blazing fast system fetch",https://gitlab.com/Maxb0tbeep
+illwill,A curses inspired simple cross-platform console library for Nim,https://github.com/johnnovak
+nimcolor,Color printing interface for nim,https://github.com/JessaTehCrow
+illwillunsafe,A fork of John Novak (john@johnnovak.net)'s illwill package that is less safe numbers wise,https://github.com/matthewjcavalier
+nivot,nivot is a simple pivot library for nim.,https://github.com/Luteva-ssh
+asciigraph,Console ascii line charts in pure nim,https://github.com/nimbackup
+dnd,Drag and drop source / target,https://github.com/adokitkat
+termbox,Termbox wrapper.,https://github.com/fowlmouth
+nimothello,A teminal othello (reversi) in Nim.,https://github.com/jiro4989
+moe,A command lined based text editor inspired by vi/vim,https://github.com/fox0430
+qrterm,A simple QR generator in your terminal.,https://github.com/aruZeta
+cozylogwriter,Basic zero-dependency logging with automatic colors and styling for Nim.,https://github.com/indiscipline
+termui,Simple UI components for the terminal.,https://github.com/jjv360
+ncurses,A wrapper for NCurses,https://github.com/walkre-niboshi
+nimprettyt,Use nimpretty with tab indentation.,https://github.com/tobealive
+paint,Colorize strings in a simple and clean way,https://github.com/pNeal0
+nancy,Nancy - Nim fancy ANSI tables,https://github.com/PMunch
+progress,A simple progress bar for Nim.,https://github.com/euantorano
+nimwave,A TUI -> GUI library,https://github.com/ansiwave
+bu,B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context),https://github.com/c-blake
+hldiff,A highlighter for diff -u-like output & port of Python difflib,https://github.com/c-blake
+nimf,Search for files in a directory hierarchy.,https://github.com/Gruruya
+metar,Read metadata from jpeg and tiff images.,https://github.com/flenniken
+procs,Unix process&system query&formatting library&multi-command CLI in Nim,https://github.com/c-blake
+autotyper,Keyboard typing emulator,https://github.com/kijowski
+suru,A tqdm-style progress bar in Nim,https://github.com/de-odex
+cligen,Infer & generate command-line interface/option/argument parsers,https://github.com/c-blake
+drawit,"Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",https://gitlab.com/OFThomas
+colorize,A simple and lightweight terminal coloring library.,https://github.com/molnarmark
+termnovel,A command that to read novel on terminal,https://github.com/jiro4989
+gitty,Easily create .gitignore files from your terminal,https://github.com/chrischtel
+miter,Ratio calculator on your terminal,https://github.com/rafmst
+nim2048,"2048 game clone runs in your terminal, written in Nim",https://github.com/enkaito
+runned,Runned is a simple tool to check the execution time of terminal commands.,https://github.com/Gael-Lopes-Da-Silva
+commandant,"Commandant is a simple to use library for parsing command line arguments. Commandant is ideal for writing terminal applications, with  support for flags, options, subcommands, and custom exit options.",https://github.com/casey-SK
+spinners,Binding for libspinners an elegant terminal spinners,https://github.com/thechampagne
