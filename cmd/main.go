@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"github.com/spf13/cobra"
-	"github.com/mmycin/npmdc/pkg/api"
-	"github.com/mmycin/npmdc/pkg/ui"
+	"github.com/mmycin/npminfo/pkg/api"
+	"github.com/mmycin/npminfo/pkg/ui"
 )
 
 func main() {

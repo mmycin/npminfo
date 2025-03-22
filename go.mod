@@ -1,4 +1,4 @@
-module github.com/mmycin/npmdc
+module github.com/mmycin/npminfo
 
 go 1.24.0
 

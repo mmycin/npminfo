@@ -5,7 +5,7 @@ import (
     "time"
     "github.com/briandowns/spinner"
     "github.com/fatih/color"
-    "github.com/mmycin/npmdc/pkg/api"
+    "github.com/mmycin/npminfo/pkg/api"
 )
 
 func DisplayNpmPackageInfo(info *api.NpmPackageInfo) {
