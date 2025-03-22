@@ -72,7 +72,6 @@ We welcome contributions to `npminfo`. If you'd like to help improve the project
 ## Contact
 
 For any questions or issues, feel free to reach out:
-- Email: mycin@example.com
 - GitHub: [mmycin](https://github.com/mmycin)
 
 ---
